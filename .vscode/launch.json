@@ -2,7 +2,7 @@
    "version": "0.2.0",
     "configurations": [
         {
-            "name": "Devcontainer: Launch sonarr_youtubedl",
+            "name": "Devcontainer: Launch sonarr_yt-dlp",
             "type": "python",
             "request": "launch",
             "program": "app/sonarr_youtubedl.py",

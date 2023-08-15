@@ -6,10 +6,10 @@
 
 ## Features
 
-* Downloading **Web Series** using online sources normally unavailable to Sonarr
+* Downloading **Web Series** hosted on sites normally unavailable to Sonarr/not normally posted to usenet/torrent sites
 * Ability to specify the downloaded video format globally or per series
 * Downloads new episodes automatically once available
-* Imports directly to Sonarr and it can then update your plex as and example
+* Imports directly to Sonarr
 * Allows setting time offsets to handle prerelease series
 * Can pass cookies.txt to handle site logins
 

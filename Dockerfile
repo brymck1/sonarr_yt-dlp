@@ -3,8 +3,6 @@ FROM python:alpine AS base
 RUN apk update && \
     apk add --no-cache ffmpeg
 
-#LABEL maintainer="Martin Jones <whatdaybob@outlook.com>"
-
 FROM python:alpine AS dependencies
 
 COPY requirements.txt ./

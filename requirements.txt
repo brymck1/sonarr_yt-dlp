@@ -4,7 +4,7 @@
 #pyyaml==5.4.1
 #schedule==1.1.0
 
-#Latest releases
+# Latest releases
 requests
 yt-dlp
 pyyaml

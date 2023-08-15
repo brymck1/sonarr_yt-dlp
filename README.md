@@ -1,5 +1,5 @@
-# Fork of [whatdaybob/sonarr_youtubedl](https://github.com/whatdaybob/Custom_Docker_Images/tree/master/sonarr_youtubedl) by [@whatdaybob](https://github.com/whatdaybob)
-## Replace youtubedl with latest [yt-dlp](https://github.com/yt-dlp/yt-dlp) and use [python](https://hub.docker.com/_/python):alpine to create smaller image.
+# Fork of [bdwinanto/sonarr_yt-dlp](https://github.com/bdwinanto/sonarr_yt-dlp) by [@bdwinanto](https://github.com/bdwinanto)
+## Plan to keep this updated with latest yt-dlp (since yt downloads don't work with older versions) and experiment with sonarr integration
 
 
 [bdwinanto/sonarr_yt-dlp](https://github.com/bdwinanto/sonarr_yt-dlp) is a [Sonarr](https://sonarr.tv/) companion script to allow the automatic downloading of web series normally not available for Sonarr to search for. Using [yt-dlp](https://github.com/yt-dlp/yt-dlp) it allows you to download your webseries from the list of [supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md).

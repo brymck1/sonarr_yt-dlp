@@ -1,5 +1,5 @@
 {
-	"name": "sonarr_youtubedl",
+	"name": "sonarr_yt-dlp",
 	"context": "..",
 	"dockerFile": "..\\Dockerfile",
 	"settings": { 

@@ -91,12 +91,3 @@ Copy the `config.yml.template` to a new file called `config.yml` and edit accord
 ### Note
 
 If you find yt-dlp able to download series but this docker is not able to, probably yt-dlp need to be updated to latest version. Please check yt-dlp=={version} in requirements.txt and update accordingly.
-
-
-
-
-If I helped in anyway and you would like to help me, consider donating a lovely beverage with the below.
-
-<!-- markdownlint-disable MD033 -->
-<a href="https://www.buymeacoffee.com/whatdaybob" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
-<!-- markdownlint-enable MD033 -->

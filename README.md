@@ -51,7 +51,7 @@ docker create \
   -v /path/to/sonarrmedia:/sonarr_root \
   -v /path/to/logs:/logs \
   --restart unless-stopped \
-  bdwinanto/sonarr_yt-dlp:latest
+  brymck/sonarr_yt-dlp:latest
 ```
 
 ### docker-compose
@@ -61,7 +61,7 @@ docker create \
 version: '3.4'
 services:
   sonarr_yt-dlp:
-    image: bdwinanto/sonarr_yt-dlp:latest
+    image: brymck/sonarr_yt-dlp:latest
     container_name: sonarr_yt-dlp
     volumes:
       - /path/to/data:/config

@@ -1,4 +1,5 @@
-# Fork of [bdwinanto/sonarr_yt-dlp](https://github.com/bdwinanto/sonarr_yt-dlp) by [@bdwinanto](https://github.com/bdwinanto)
+# Sonarr_yt-dlp integration
+## Fork of [bdwinanto/sonarr_yt-dlp](https://github.com/bdwinanto/sonarr_yt-dlp) by [@bdwinanto](https://github.com/bdwinanto)
 ## Plan to keep this updated with latest yt-dlp (since yt downloads don't work with older versions) and experiment with sonarr integration
 
 
